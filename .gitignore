@@ -1,0 +1,13 @@
+.scratch/
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+installer/Output/
+*.spec.bak
+.env
